@@ -12,7 +12,8 @@
             <div class="col-md-12">
               <div class="card">
                 <div class="card-header card-header-primary">
-                  <h4 class="card-title ">All Slider</h4>
+                  <h4 class="card-title">All Slider</h4>
+                  {{-- <a href="{{ route('slider.create') }}" class="float-right btn btn-success">Create</a> --}}
                 </div>
                 <div class="card-body">
                   <div class="table-responsive">
